@@ -11,3 +11,5 @@ info for branch aaa
 
 ## 04 Another branch test
 ## 05 conflict merge test
+
+## 06 test
